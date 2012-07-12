@@ -14,7 +14,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Ant>
-      <targets></targets>
+      <targets>ci</targets>
     </hudson.tasks.Ant>
   </builders>
   <publishers>
